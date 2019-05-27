@@ -7,7 +7,7 @@ uses
   cthreads,
   {$ENDIF}{$ENDIF}
   Interfaces, // this includes the LCL widgetset
-  Forms, zaps_main, Fire
+  Forms, zaps_main, Fire,Enemies
   { you can add units after this };
 
 {$R *.res}
