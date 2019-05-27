@@ -9,7 +9,7 @@
         <IsPartOfProject Value="True"/>
         <EditorIndex Value="4"/>
         <CursorPos X="33" Y="10"/>
-        <UsageCount Value="36"/>
+        <UsageCount Value="40"/>
         <Loaded Value="True"/>
       </Unit0>
       <Unit1>
@@ -18,10 +18,9 @@
         <ComponentName Value="Form1"/>
         <HasResources Value="True"/>
         <ResourceBaseClass Value="Form"/>
-        <IsVisibleTab Value="True"/>
-        <TopLine Value="98"/>
-        <CursorPos X="19" Y="110"/>
-        <UsageCount Value="36"/>
+        <TopLine Value="107"/>
+        <CursorPos X="47" Y="119"/>
+        <UsageCount Value="40"/>
         <Loaded Value="True"/>
         <LoadedDesigner Value="True"/>
       </Unit1>
@@ -32,17 +31,18 @@
         <EditorIndex Value="2"/>
         <TopLine Value="9"/>
         <CursorPos Y="29"/>
-        <UsageCount Value="35"/>
+        <UsageCount Value="39"/>
         <Loaded Value="True"/>
       </Unit2>
       <Unit3>
         <Filename Value="enemies.pas"/>
         <IsPartOfProject Value="True"/>
         <UnitName Value="Enemies"/>
+        <IsVisibleTab Value="True"/>
         <EditorIndex Value="1"/>
         <TopLine Value="5"/>
-        <CursorPos X="12" Y="28"/>
-        <UsageCount Value="28"/>
+        <CursorPos X="8" Y="14"/>
+        <UsageCount Value="32"/>
         <Loaded Value="True"/>
       </Unit3>
       <Unit4>
@@ -51,7 +51,7 @@
         <EditorIndex Value="3"/>
         <TopLine Value="22"/>
         <CursorPos Y="22"/>
-        <UsageCount Value="18"/>
+        <UsageCount Value="19"/>
         <Loaded Value="True"/>
       </Unit4>
       <Unit5>
@@ -61,7 +61,7 @@
         <DefaultSyntaxHighlighter Value="LFM"/>
       </Unit5>
     </Units>
-    <JumpHistory Count="28" HistoryIndex="27">
+    <JumpHistory Count="30" HistoryIndex="29">
       <Position1>
         <Filename Value="zaps_main.pas"/>
         <Caret Line="116" Column="22" TopLine="104"/>
@@ -174,6 +174,14 @@
         <Filename Value="zaps_main.pas"/>
         <Caret Line="81" Column="18" TopLine="56"/>
       </Position28>
+      <Position29>
+        <Filename Value="zaps_main.pas"/>
+        <Caret Line="119" Column="47" TopLine="98"/>
+      </Position29>
+      <Position30>
+        <Filename Value="zaps_main.pas"/>
+        <Caret Line="115" Column="58" TopLine="103"/>
+      </Position30>
     </JumpHistory>
   </ProjectSession>
 </CONFIG>
